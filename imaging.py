@@ -145,9 +145,9 @@ ax_r_factor = plt.axes([0.1, 0.1, 0.65, 0.03], facecolor=axcolor)
 ax_g_factor = plt.axes([0.1, 0.15, 0.65, 0.03], facecolor=axcolor)
 ax_b_factor = plt.axes([0.1, 0.2, 0.65, 0.03], facecolor=axcolor)
 
-s_r_factor = Slider(ax_r_factor, 'Red', 0.1, 10.0, valinit=1)
-s_g_factor = Slider(ax_g_factor, 'Green', 0.1, 10.0, valinit=1)
-s_b_factor = Slider(ax_b_factor, 'Blue', 0.1, 10.0, valinit=1)
+s_r_factor = Slider(ax_r_factor, 'Red', 0, 10.0, valinit=1)
+s_g_factor = Slider(ax_g_factor, 'Green', 0, 10.0, valinit=1)
+s_b_factor = Slider(ax_b_factor, 'Blue', 0, 10.0, valinit=1)
 
 def update_factors(val):
     global R_factor, G_factor, B_factor
