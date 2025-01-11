@@ -161,3 +161,11 @@ s_g_factor.on_changed(update_factors)
 s_b_factor.on_changed(update_factors)
 
 plt.show()
+
+Q = 5.
+stretch = 25.
+minimum = [-1, -1, -1]
+image = make_lupton_rgb(R_factor * R, G_factor * G, B_factor * B, Q=Q, stretch=stretch, minimum=minimum)
+plt.imshow(image, origin='lower')
+plt.axis('off')
+plt.savefig('rgb.png', bbox_inches='tight')
