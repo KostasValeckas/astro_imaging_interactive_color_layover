@@ -1,0 +1,39 @@
+FILE           	*	OBJECT            	OBS_MODE    	ALAPRTNM	ALGRNM     	FBFLTNM    	DETWIN1         	FAFLTNM          	
+ALIa050122.fits	 	SDSSJ124356+320953	IMAGING     	Open    	Open_(Lyot)	Halp 658_18	[1:2148, 1:2102]	Open             	
+ALIa050123.fits	 	SDSSJ124356+320953	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	g''_SDSS 480_145 	
+ALIa050124.fits	 	SDSSJ124356+320953	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	r''_SDSS  618_148	
+ALIa050125.fits	 	SDSSJ124356+320953	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	u''_SDSS  353_55 	
+ALIa050154.fits	 	FLAT 1            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	g''_SDSS 480_145 	
+ALIa050155.fits	 	FLAT 2            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	g''_SDSS 480_145 	
+ALIa050156.fits	 	FLAT 3            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	g''_SDSS 480_145 	
+ALIa050158.fits	 	FLAT 1            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	r''_SDSS  618_148	
+ALIa050159.fits	 	FLAT 2            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	r''_SDSS  618_148	
+ALIa050160.fits	 	FLAT 3            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	r''_SDSS  618_148	
+ALIa050166.fits	 	FLAT 1            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	u''_SDSS  353_55 	
+ALIa050167.fits	 	FLAT 2            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	u''_SDSS  353_55 	
+ALIa050168.fits	 	FLAT 3            	IMAGING     	Open    	Open_(Lyot)	Open       	[1:2148, 1:2102]	u''_SDSS  353_55 	
+ALIa050170.fits	 	FLAT 1            	IMAGING     	Open    	Open_(Lyot)	Halp 658_18	[1:2148, 1:2102]	Open             	
+ALIa050171.fits	 	FLAT 2            	IMAGING     	Open    	Open_(Lyot)	Halp 658_18	[1:2148, 1:2102]	Open             	
+ALIa050172.fits	 	FLAT 3            	IMAGING     	Open    	Open_(Lyot)	Halp 658_18	[1:2148, 1:2102]	Open             	
+ALIa050215.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050216.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050217.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050218.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050219.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050220.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050221.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050222.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050223.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050224.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050225.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050226.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050227.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050228.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050229.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050230.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050231.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050232.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050233.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050234.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050235.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
+ALIa050236.fits	 	alfosc-calibs bias	SPECTROSCOPY	Slit_1.0	Grism_#18  	Open       	[1:2148, 1:2102]	Open             	
